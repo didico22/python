@@ -1,0 +1,6 @@
+idade = int (input("digite sua idade:"))
+print("voce vai ficar doido")
+type(idade) 
+idade=(idade+10)
+moradia = list(input("onde voce mora:"))
+print("voce mora em bh.")
